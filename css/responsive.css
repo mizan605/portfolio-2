@@ -346,10 +346,10 @@
 
 /*
 ==================
- max-width:350px
+ max-width:370px
 ==================
 */
-@media (max-width:350px){
+@media (max-width:370px){
 	.update ul li a {
         font-size: 14px;
     }
@@ -397,13 +397,19 @@
 
 /*
 ==================
- max-width:320px
+ max-width:330px
 ==================
 */
-@media (max-width:320px){
-	
-	
-	
+@media (max-width:330px){
+	.update ul li a {
+        font-size: 12px;
+    }
+	.filter-icon i {
+        font-size: 10px;
+    }
+	.product-price {
+        left: 220px;
+    }
 	
 	
 	
