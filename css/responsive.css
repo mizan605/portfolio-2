@@ -1,0 +1,422 @@
+/*
+==================
+ max-width:1199px
+==================
+*/
+@media (max-width:1199px){
+    .login-box a {
+        padding: 27px 11px;
+        font-size: 16px;
+    }
+    .filter-icon ul li {
+        padding: 11px;
+        margin-left: 1px;
+    }
+    .filter-submit i {
+        left: 134px;
+    }
+    .filter .filter-form .filter-submit .form-control {
+        padding-right: 119px;
+    }
+    .select-icon i {
+        left: 101px;
+    }
+    .update ul li {
+        padding: 23px 14px;
+    }
+    .product-price {
+        left: 138px;
+        top: 12px;
+    }
+    .offer-list ul li {
+        margin-right: 52px;
+    }
+    .email-box .submitc {
+        right: 232px;
+    }
+}
+/*
+==================
+ max-width:991px
+==================
+*/
+@media (max-width:991px){
+    .heading h2 {
+        font-size: 28px;
+    }
+    .filter-icon i {
+        font-size: 16px;
+    }	
+    .filter-icon ul li {
+        padding: 5px;
+    }
+    .filter-icon ul li {
+        border-radius: 50%;
+    }
+    .update ul li {
+        padding: 25px 6px;
+    }
+    .update ul li a {
+        font-size: 14px;
+    }
+    .filter .filter-form .form-control {
+        padding-left: 7px;
+    }
+    .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+        padding-right: 25px;
+        padding-left: 0px;
+    }
+    .filter .filter-form .filter-submit .form-control {
+        padding-right: 115px;
+    }
+    .filter-submit i {
+        left: 106px;
+    }
+    .select-icon i {
+        left: 71px;
+    }
+    .product-price span {
+        padding: 7px 10px;
+        font-size: 11px;
+    }
+    .product-price {
+        left: 99px;
+        top: 7px;
+    }
+    .Big-product .blog-icon {
+        left: -295px;
+    }
+    .offer-list ul li {
+        margin-right: 14px;
+    }
+    .email-box .submitc {
+        right: 110px;
+    }
+    .offer-content-left {
+        height: 162px;
+    }
+}	
+
+/*
+==================
+ max-width:768px
+==================
+*/
+@media (max-width:768px){
+    .our-search .form-control {
+        width: 51%;
+    }
+    .heading h2 {
+        font-size: 21px;
+    }
+    .update ul li a {
+        font-size: 18px;
+    }
+    .update ul li {
+        padding: 23px 40px;
+    }	
+    .filter-icon i {
+        font-size: 15px;
+    }
+    .filter .filter-form .form-control {
+        padding-left: 15px;
+    }
+    .select-icon i {
+        left: 96px;
+    }
+    .filter-submit i {
+        left: 112px;
+    }
+    .filter-icon ul li span {
+        padding-right: 1px;
+    }
+    .offer-list ul li {
+        margin-right: 69px;
+        margin-bottom: 29px;
+    }
+    .email-box .submitc {
+        right: 21px;
+    }
+    .Big-product .blog-icon {
+        left: -215px;
+    }
+    .Big-product .product-price span {
+        font-size: 19px;
+    }
+    .product-price {
+        left: 185px;
+    }
+	
+}
+
+
+/*
+==================
+ max-width:615px
+==================
+*/
+@media (max-width:615px){
+	
+	
+	
+}
+/*
+==================
+ max-width:577px
+==================
+*/
+@media (max-width:577px){
+	
+	
+	
+}
+
+
+/*
+==================
+ max-width:530px
+==================
+*/
+@media (max-width:530px){
+	.offer-list ul li {
+        margin-right: 34px;
+        margin-left: 26px;
+    }
+    .Big-product .blog-icon {
+        left: -432px;
+    }
+    .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+        padding-right: 21px;
+        padding-left: 16px;
+    }
+    .select-icon i {
+        left: 426px;
+    }
+    .filter-submit i {
+        left: 443px;
+    }
+    .filter .filter-form .filter-submit .form-control {
+    padding-right: 315px;
+    }
+    .filter .filter-form .form-control {
+        padding-left: 71px;
+    }
+    .product-price {
+        left: 419px;
+        top: 18px;
+    }
+	.product-price span {
+        padding: 11px 15px;
+        font-size: 12px;
+    } 
+    .filter-icon i {
+        font-size: 18px;
+    }
+    .filter-icon ul li span {
+        padding-right: 15px;
+    }
+    .filter-icon ul li {
+        margin-left: 6px;
+        padding: 10px;
+    }
+    .filter-icon ul li span {
+        padding-top: 26px;
+        padding-bottom: 39px;
+        margin-left: 40px;
+        font-size: 18px;
+    }
+    
+}
+
+
+
+/*
+==================
+ max-width:480px
+==================
+*/
+@media (max-width:480px){
+	.update ul li a {
+        font-size: 16px;
+    }
+    .select-icon i {
+        left: 387px;
+    }
+    .filter-submit i {
+        left: 407px;
+    }
+    .product-price {
+        left: 358px;
+    }
+	.Big-product .blog-icon {
+        left: -393px;
+    }
+    .offer-list ul li {
+        margin-right: 21px;
+        margin-left: 21px;
+    }
+    .email-box .email {
+        width: 419px;
+        height: 61px;
+    }
+	
+	
+}
+/*
+==================
+ max-width:430px
+==================
+*/
+@media (max-width:430px){
+	.update ul li {
+        padding: 23px 22px;
+    }
+    .update ul li a {
+        font-size: 17px;
+    }
+    .select-icon i {
+        left: 343px;
+    }
+    .filter-submit i {
+        left: 362px;
+    }
+    .product-price {
+        left: 321px;
+    }
+    .offer-title h2 {
+        font-size: 26px;
+    }
+	.Big-product .blog-icon {
+        left: -320px;
+    }
+    .offer-list ul li {
+        margin-right: 11px;
+        margin-left: 16px;
+    }
+    .email-box .email {
+        width: 403px;
+    }
+    .email-box .submitc {
+        right: 4px;
+    }
+
+	
+	
+	
+}
+
+/*
+==================
+ max-width:400px
+==================
+*/
+@media (max-width:400px){
+	.update ul li {
+        padding: 23px 22px;
+    }
+    .update ul li a {
+        font-size: 17px;
+    }
+    .select-icon i {
+        left: 313px;
+    }
+    .filter .filter-form .filter-submit .form-control {
+        padding-right: 288px;
+    }
+    .filter-submit i {
+        left: 331px;
+    }
+    .filter-icon ul li span {
+        margin-left: 23px;
+    }
+    .product-price {
+        left: 285px;
+    }
+    .offer-list ul li {
+        margin-right: 11px;
+        margin-left: 7px;
+    }
+    .email-box .email {
+        width: 370px;
+    }    
+
+	
+	
+}
+
+/*
+==================
+ max-width:350px
+==================
+*/
+@media (max-width:350px){
+	.update ul li a {
+        font-size: 14px;
+    }
+    .select-icon i {
+        left: 261px;
+    }
+    .filter .filter-form .filter-submit .form-control {
+        padding-right: 238px;
+    }
+    .filter-submit i {
+        left: 281px;
+    }
+    .filter-icon ul li span {
+        margin-left: -10px;
+    }
+    .filter-icon i {
+        font-size: 15px;
+    }
+    .product-price {
+        left: 239px;
+    }
+    .Big-product .blog-icon {
+        left: -250px;
+    }
+    .email-box .email {
+        width: 323px;
+    }
+    .offer-list ul li a {
+        width: 90px;
+        height: 88px;
+        font-size: 38px;
+    }
+    .offer-list ul li {
+        margin-right: 4px;
+        margin-left: 6px;
+    }
+    .subscriber-content h2 {
+        font-size: 23px;
+    }
+	
+	
+	
+	
+}
+
+/*
+==================
+ max-width:320px
+==================
+*/
+@media (max-width:320px){
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
