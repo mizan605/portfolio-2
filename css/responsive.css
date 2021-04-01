@@ -389,18 +389,22 @@
     .subscriber-content h2 {
         font-size: 23px;
     }
-	
-	
+	.offer-content-left {
+        height: 179px;
+    }
+	.email-box .email {
+        width: 305px;
+    }
 	
 	
 }
 
 /*
 ==================
- max-width:330px
+ max-width:340px
 ==================
 */
-@media (max-width:330px){
+@media (max-width:340px){
 	.update ul li a {
         font-size: 12px;
     }
@@ -410,9 +414,18 @@
 	.product-price {
         left: 220px;
     }
-	
-	
-	
+	.update ul li {
+        padding: 23px 18px;
+    }
+	.update ul li a {
+        font-size: 13px;
+    }
+	.offer-content-left {
+        height: 179px;
+    }
+    .email-box .email {
+        width: 305px;
+    }
 }
 
 
