@@ -428,6 +428,16 @@
     }
 }
 
+/*
+==================
+ max-width:305px
+==================
+*/
+@media (max-width:305px){
+	.update ul li a {
+        font-size: 12px;
+    }
+}
 
 
 
